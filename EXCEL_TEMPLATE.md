@@ -94,9 +94,12 @@ Clothing             Women's Wear    Dresses          Evening Dresses
 
 Sheet "Check":
 Internal Category
-Dell Latitude Business Notebook
-Logitech Bluetooth Headset
-Men's Blue Cotton Shirt
+Home & Garden/Home & Kitchen/Categories/Bedding & Linens/Children's Bedding/Bedding Collections
+Home & Garden/Home & Kitchen/Categories/Bedding & Linens/Bedding/Duvets & Duvet Covers/Duvets
+Toys & Games/Toy Types/Pretend Play/Household Toys
+Baby Products/Health & Baby Care/Bathing/Bath & Hooded Towels
+Home & Garden/Home & Kitchen/Categories/Home Accessories/Seasonal Décor/Christmas/Novelty Decorations
+Toys & Games/Toy Types/Kids' Furniture, Décor & Storage/Backpacks & Lunch Boxes/Backpacks
 ```
 
 ## File Naming
