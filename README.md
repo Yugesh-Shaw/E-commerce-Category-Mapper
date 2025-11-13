@@ -127,7 +127,7 @@ Final Mapped Category
 | Parameter | Default | Description |
 |-----------|---------|-------------|
 | `top_n` | 30 | Number of candidates for LLM |
-| `semaphore` | 2 | Concurrent API requests |
+| `semaphore` | 10 | Concurrent API requests |
 | `similarity_threshold` | 0.85 | Minimum similarity for auto-accept |
 | `autosave_interval` | 10 | Save progress every N items |
 
