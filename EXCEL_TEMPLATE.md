@@ -93,7 +93,7 @@ Clothing             Men's Wear      Shirts           Formal Shirts
 Clothing             Women's Wear    Dresses          Evening Dresses
 
 Sheet "Check":
-Internal Category
+Internal Category:
 Home & Garden/Home & Kitchen/Categories/Bedding & Linens/Children's Bedding/Bedding Collections
 Home & Garden/Home & Kitchen/Categories/Bedding & Linens/Bedding/Duvets & Duvet Covers/Duvets
 Toys & Games/Toy Types/Pretend Play/Household Toys
